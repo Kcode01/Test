@@ -1,0 +1,4 @@
+hola soy un archivo de prueba de git 
+
+este es una linea adiconal que se escribe literalmente para dar a conocer
+el mundo de git ,usando los commandos basicos .
