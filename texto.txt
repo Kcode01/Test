@@ -1,6 +1,10 @@
 Este este primer proyecto con git y giithub
+
  estoy probando la rama fix-typo 
 
 
  Se esta creando esta linea solamente para hacer una prubea de merge con la 
- rama del master. 
+ rama del master.
+
+
+ se probara el pull request
